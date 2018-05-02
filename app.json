@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/orderDetail/orderDetail"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#E15616",
+    "enablePullDownRefresh": false,
+    "navigationBarTitleText": "中烟新商盟",
+    "navigationBarTextStyle": "#ffffff",
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#fff",
+    "enablePullDownRefresh": true
+  }
+}
+
+

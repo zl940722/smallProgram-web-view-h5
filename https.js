@@ -1,0 +1,1 @@
+export var APIURL_DEVELOP = 'https://xxx.com';

@@ -1,0 +1,117 @@
+/**orderDetail.wxss**/
+.orderM {
+    color: #F87132;
+    font-size: 30rpx;
+}
+
+.method {
+    color: #25B225;
+    font-size: 28rpx;
+}
+
+.telDiv {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.telPhone {
+    height: 40rpx;
+    width: 40rpx;
+    padding-left: 10px;
+}
+
+.tel {
+    display: inline-block;
+    color: #25B225;
+    font-size: 26rpx;
+}
+
+.divBackground {
+    display: flex;
+    background: #F5F5F9;
+    height: 10rpx;
+}
+
+.placeholder {
+    margin: 10rpx;
+    padding: 0 20rpx;
+    text-align: center;
+    background-color: #EBEBEB;
+    height: 2.3em;
+    line-height: 2.3em;
+    color: #cfcfcf;
+}
+
+.product {
+    padding-top: 12rpx;
+    padding-bottom: 12rpx;
+    background: #EBEBEB;
+    width: 100%;
+    overflow: hidden;
+}
+
+.productImg {
+    margin-left: 5%;
+    width: 20%;
+    float: left;
+    padding-right: 5%;
+}
+
+.productImg image {
+    height: 132rpx;
+    width: 132rpx;
+}
+
+.productSpec {
+    color: #222222;
+    font-size: 26rpx;
+    width: 50%;
+    padding-right: 5%;
+    float: left;
+}
+
+.productSpec p {
+    display: block;
+}
+
+.productSpec p:nth-child(2) {
+    color: #888888;
+    font-size: 24rpx;
+}
+
+.productMoney {
+    color: #F87132;
+    font-size: 28rpx;
+    float: left;
+    width: 15%;
+}
+
+.productMoney p {
+    display: block;
+}
+
+.productMoney p:nth-child(2) {
+    color: #888888;
+    font-size: 26rpx;
+    padding-top: 15%;
+}
+
+.productBackground {
+    display: flex;
+    background: #fff;
+    height: 10rpx;
+}
+
+.orderMessage {
+    padding-bottom: 30rpx;
+}
+
+.orderMessage p {
+    display: block;
+    padding-left: 30rpx;
+    padding-bottom: 10rpx;
+    color: #888888;
+    font-size: 24rpx;
+}
